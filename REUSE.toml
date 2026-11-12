@@ -1,0 +1,6 @@
+version = 1
+
+[[annotations]]
+path = "**"
+SPDX-FileCopyrightText = "Copyright James Martin"
+SPDX-License-Identifier = "LicenseRef-LLMenuBar-ARR"

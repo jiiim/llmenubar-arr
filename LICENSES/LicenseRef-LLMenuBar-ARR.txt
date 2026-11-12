@@ -1,0 +1,8 @@
+Copyright James Martin. All rights reserved.
+
+The files in this repository are not licensed for copying, modification,
+distribution or any other use. GitHub's Terms of Service let others view and
+fork a public repository on GitHub; they grant nothing beyond that.
+
+This is not an open source license. It does not apply to the LLMenuBar source
+code, which is available under the MIT license in its own repository.
